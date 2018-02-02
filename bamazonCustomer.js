@@ -1,4 +1,5 @@
 //Node.js & MySQL - Bamazon CLI 
+//My .gitignore keep getting errors and I could not push
 
 var inquirer = require("inquirer");
 var mysql = require("mysql");
